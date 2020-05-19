@@ -1,0 +1,2 @@
+class TogglDesktop:
+    pass
